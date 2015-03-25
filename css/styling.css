@@ -1,0 +1,23 @@
+h1 {
+  font-family: "cursive";
+  text-align: center;
+  color: #407FBF
+}
+
+p {
+  color: #407FBF
+}
+
+body {
+  text-align: center
+}
+h2 {
+  font-size: 1.5em;
+  color: #407FBF
+}
+li {
+  font-style:italic;
+  list-style:none;
+  color: #8BB2D8
+
+}
